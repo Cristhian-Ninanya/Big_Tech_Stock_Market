@@ -76,7 +76,10 @@ Utilize Python to analyze the historical performance of various Big Tech compani
 
 ![alt text](https://github.com/Cristhian-Ninanya/Big_Tech_Stock_Market/blob/main/images/corr_META_MSFT.png?raw=true)
 
-**OBS:**
-* "Accuracy_Test" improved using Random Forest, but "Accuracy_train" is almost overfitting. 
-* Using random forest algorithm, feature like 'fnlwgt' and 'age' become more relevant than 'capital-gain'.
-* 'education-num', 'relationship', 'hours-per-week' become more relevant than 'marital-stauts'.
+**Observations:**
+
+* There is a interesting linear relationship between the stock prices of Meta and Microsoft, which means that when the stock price of Meta increases, the stock price of Microsoft also tends to increase. 
+
+* It is a sign of a strong correlation or similarity between the two companies, which can be due to factors such as industry trends, market conditions, or common business partners or customers. 
+
+* For investors, this positive correlation may indicate an opportunity to diversify their portfolio by investing in both companies, as both stocks may offer similar potential returns and risks..
